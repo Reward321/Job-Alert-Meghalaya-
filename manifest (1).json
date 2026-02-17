@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Jobalertmeghalaya",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "JAM",
+  "start_url": "https://reward321.github.io/Job-Alert-Meghalaya-/",
+  "theme_color": "#ffffff"
+}
